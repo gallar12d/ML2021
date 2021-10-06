@@ -1,0 +1,49 @@
+.cardProduct {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.decoration {
+  text-decoration: none !important;
+  color: rgb(59, 59, 59);
+}
+
+.resultsContainer {
+  background-color: rgb(238 238 238);
+}
+.picture > img {
+  margin-top: 30px;
+  width: 200px;
+  margin-left: 10px;
+}
+.detailsSearch {
+  width: 35%;
+  padding-top: 30px;
+  margin-left: 10px;
+}
+.city {
+  padding-top: 58px;
+  display: flex;
+  width: 35%;
+  justify-content: flex-end;
+}
+
+.freeShipping {
+  display: flex;
+  align-items: baseline;
+}
+.freeShipping > h2 {
+  margin-bottom: 5px;
+}
+.freeShipping > img {
+  width: 13px;
+  height: 13px;
+  margin-left: 3px;
+}
+.space {
+  /* width: 95%; */
+  height: 2px;
+  border: 0px;
+  margin: 0px;
+  background-color: rgb(238 238 238);
+}

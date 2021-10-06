@@ -1,0 +1,13 @@
+.ulBreadcrumb {
+  display: flex;
+  gap: 5px;
+  list-style-type: none;
+  margin-left: 7%;
+  margin-top: 0px;
+  padding-top: 7px;
+}
+
+.breadLink {
+  text-decoration: none;
+  color: rgb(53, 52, 52);
+}
